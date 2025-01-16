@@ -1,0 +1,6 @@
+aiohttp
+fastapi
+uvicorn
+pydantic
+requests
+loguru
