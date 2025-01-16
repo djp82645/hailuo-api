@@ -6,7 +6,8 @@ HAILUO - AI Videos Generation. It is developed based on FastAPI technologies
 
 Official website: [https://suno.com/](https://suno.com/)
 
-Github: [https://github.com/gochendong/suno-api](https://github.com/gochendong/bulita)
+Github: [https://github.com/djp82645/hailuo-api](https://github.com/djp82645)
+
 </div>
 
 ## Features
